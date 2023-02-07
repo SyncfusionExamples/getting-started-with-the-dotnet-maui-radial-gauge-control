@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUIExample.MainPage"
+             xmlns:control="clr-namespace:Syncfusion.Maui.Gauges;assembly=Syncfusion.Maui.Gauges">
+
+    <control:SfRadialGauge>
+        <control:SfRadialGauge.Axes>
+            <control:RadialAxis Minimum="30" Maximum="150" Interval="30" 
+                                EnableLoadingAnimation="True" RadiusFactor="0.9" 
+                                IsInversed="True" CanRotateLabels="True" 
+                                StartAngle="180" EndAngle="360">
+                <control:RadialAxis.Pointers>
+                    <control:NeedlePointer Value="75" EnableAnimation="True" 
+                                           AnimationEasing="{x:Static Easing.SpringOut }"
+                                           AnimationDuration="3000"></control:NeedlePointer>
+                </control:RadialAxis.Pointers>
+                <control:RadialAxis.Ranges>
+                    <control:RadialRange StartValue="30" EndValue="60" Fill="Green"></control:RadialRange>
+                    <control:RadialRange StartValue="60" EndValue="120" Fill="Orange"></control:RadialRange>
+                    <control:RadialRange StartValue="120" EndValue="150" Fill="Red"></control:RadialRange>
+                </control:RadialAxis.Ranges>
+                <!--<control:RadialAxis.AxisLineStyle>
+                    <control:RadialLineStyle Fill="#FF355C7D" ></control:RadialLineStyle>
+                </control:RadialAxis.AxisLineStyle>-->
+
+            </control:RadialAxis>
+        </control:SfRadialGauge.Axes>
+    </control:SfRadialGauge>
+
+</ContentPage>
