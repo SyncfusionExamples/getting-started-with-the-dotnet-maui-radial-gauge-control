@@ -56,7 +56,7 @@ Radial range is a visual element that helps to quickly visualize a value where i
 [Pointer](https://help.syncfusion.com/maui/radial-gauge/pointers?utm_source=github&utm_medium=listing&utm_campaign=maui-radial-gauge-github-samples) is used to indicate values on an axis. Radial gauge has three types of pointers: needle pointer, shape pointer, content pointer and range pointer. All the pointers can be customized as needed.
 
 ### Pointer animation 
-Animates the pointer in a visually appealing way when the pointer moves from one value to another.
+[Animates](https://help.syncfusion.com/maui/radial-gauge/animation) the pointer in a visually appealing way when the pointer moves from one value to another.
 
 ### Pointer interaction
 Radial gauge provides an option to drag a pointer from one value to another. It is used to change the value at run time.
