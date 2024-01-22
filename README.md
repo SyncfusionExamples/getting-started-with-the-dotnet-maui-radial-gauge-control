@@ -53,7 +53,7 @@ Syncfusion has no liability for any damage or consequence that may arise from us
 Radial range is a visual element that helps to quickly visualize a value where it falls on the axis.
 
 ### Pointers 
-[Pointer](https://help.syncfusion.com/maui/radial-gauge/pointers) is used to indicate values on an axis. Radial gauge has three types of pointers: needle pointer, shape pointer, content pointer and range pointer. All the pointers can be customized as needed.
+[Pointer](https://help.syncfusion.com/maui/radial-gauge/pointers?utm_source=github&utm_medium=listing&utm_campaign=maui-radial-gauge-github-samples) is used to indicate values on an axis. Radial gauge has three types of pointers: needle pointer, shape pointer, content pointer and range pointer. All the pointers can be customized as needed.
 
 ### Pointer animation 
 Animates the pointer in a visually appealing way when the pointer moves from one value to another.
@@ -62,7 +62,7 @@ Animates the pointer in a visually appealing way when the pointer moves from one
 Radial gauge provides an option to drag a pointer from one value to another. It is used to change the value at run time.
 
 ### Annotations
-Add multiple views such as text and image as an [annotation](https://help.syncfusion.com/maui/radial-gauge/annotation) to a specific point of interest in a radial gauge.
+Add multiple views such as text and image as an [annotation](https://help.syncfusion.com/maui/radial-gauge/annotation?utm_source=github&utm_medium=listing&utm_campaign=maui-radial-gauge-github-samples) to a specific point of interest in a radial gauge.
 
 ## Related links
 [Learn More about .NET MAUI Radial Gauge](https://www.syncfusion.com/maui-controls/maui-radial-gauge?utm_source=github&utm_medium=listing&utm_campaign=maui-radial-gauge-github-samples)
@@ -80,8 +80,6 @@ Add multiple views such as text and image as an [annotation](https://help.syncfu
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-radial-gauge-github-samples)
 
 [Online example](https://github.com/syncfusion/maui-demos/tree/master/MAUI/Gauges/SampleBrowser.Maui.Gauges/Samples/RadialGauge?utm_source=github&utm_medium=listing&utm_campaign=maui-radial-gauge-github-samples)
-
-[Knowledge base](https://support.syncfusion.com/kb?utm_source=github&utm_medium=listing&utm_campaign=maui-radial-gauge-github-samples)
 
 ## About Syncfusion .NET MAUI Controls
 
